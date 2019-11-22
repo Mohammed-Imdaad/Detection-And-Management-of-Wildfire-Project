@@ -1,4 +1,4 @@
-Detection and management of wildfire project
+# Detection and management of wildfire project
 
-# tekhack-NOTHING-team-PPT
+tekhack-NOTHING-team-PPT
 presentation of "NOTHING" team about Wildfire
